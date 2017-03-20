@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1,------- PV CHANNELS -------
 http://whatever.ts
-#EXTINF:-1,RUSSIAN - TV1
+#EXTINF:-1,RUSSIAN - First Bisiness Channel
 http://78.26.128.94:7321/index.php?channel=75
-#EXTINF:-1,RUSSIAN - TV2
+#EXTINF:-1,RUSSIAN - E Film
 http://78.26.128.94:7321/index.php?channel=109
-#EXTINF:-1,RUSSIAN - TV3
+#EXTINF:-1,RUSSIAN - Tiji
 http://78.26.128.94:7321/index.php?channel=110
-#EXTINF:-1,RUSSIAN - TV4
+#EXTINF:-1,RUSSIAN - Kino
 http://78.26.128.94:7321/index.php?channel=6
-#EXTINF:-1,RUSSIAN - TV5
+#EXTINF:-1,RUSSIAN - HTH
 http://78.26.128.94:7321/index.php?channel=7
-#EXTINF:-1,RUSSIAN - TV6
+#EXTINF:-1,RUSSIAN - K TV
 http://78.26.128.94:7321/index.php?channel=10
-#EXTINF:-1,RUSSIAN - TV7
+#EXTINF:-1,RUSSIAN - English Club TV
 http://78.26.128.94:7321/index.php?channel=12
-#EXTINF:-1,RUSSIAN - TV8
+#EXTINF:-1,RUSSIAN - FOX
 http://78.26.128.94:7321/index.php?channel=17
-#EXTINF:-1,RUSSIAN - TV9
+#EXTINF:-1,RUSSIAN - EX
 http://78.26.128.94:7321/index.php?channel=19
 #EXTINF:-1,RUSSIAN - TV10
 http://78.26.128.94:7321/index.php?channel=26
@@ -39,3 +39,5 @@ http://78.26.128.94:7321/index.php?channel=36
 http://78.26.128.94:7321/index.php?channel=38
 #EXTINF:-1,UK - TV3
 http://78.26.128.94:7321/index.php?channel=41
+#EXTINF:-1,Deadpool
+\\10.10.20.30\Videos\Deadpool 2016 1080p BluRay x264 DTS-JYK
