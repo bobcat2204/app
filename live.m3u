@@ -33,3 +33,9 @@ http://78.26.128.94:7321/index.php?channel=42
 http://78.26.128.94:7321/index.php?channel=43
 #EXTINF:-1,RUSSIAN - TV16
 http://78.26.128.94:7321/index.php?channel=101
+#EXTINF:-1,UK - TV1
+http://78.26.128.94:7321/index.php?channel=36
+#EXTINF:-1,UK - TV2
+http://78.26.128.94:7321/index.php?channel=38
+#EXTINF:-1,UK - TV3
+http://78.26.128.94:7321/index.php?channel=41
